@@ -10,7 +10,8 @@ Thank you for the support, I got really amazed when this little json file got 10
 
 So what have I actually learned,
 
-First of all, be prepared on the json structure, with a better documentation, actually I never thought it would become so popular, so thats why I wasnt prepared enough.
+First of all, be prepared on the json structure, with a better documentation, actually I never thought it would become so popular, 
+so thats why I wasnt prepared enough.
 
 I just made this json data for my little own worldcup overview, and then I added github topic tags, and then it just exploded with stars. And those github topics is actually the only "marketing" I have made of this, no topics on reddit or any other place.
 
